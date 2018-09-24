@@ -7,14 +7,14 @@ flinder - *noun*
 >     A small piece or fragment; a thin slice; splinter
 > https://en.wiktionary.org/wiki/flinder
 
-# Setup
+## Setup
 
 Copy `config.sample.json` to `~/.flindr.json` and change the contents to match
 your reality.
 
 All searches are focused on *your* Flickr account, so OAuth setup is required.
 
-# Usage
+## Usage
 
 ```sh
 $ npm i -g . # to install `flindr` command line tool
