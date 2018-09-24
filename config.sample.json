@@ -1,0 +1,6 @@
+{
+  "key": "...your Flickr API key here...",
+  "secret": "...your Flickr API secret here...",
+  "oauth_token": "...your OAuth Token here...",
+  "oauth_token_secret": "...your OAuth Token secret here..."
+}
